@@ -8,18 +8,18 @@ My name is Andre Lara and I am a junior in high school. I am in the Software Eng
 
 **Schedule:**
 
-First Period: Software Engineering 
+1. Software Engineering 
 
-Second Period: English 5
+2. English 5
 
-Third Period: Lunch 
+3. Lunch 
 
-Fourth Period: U.S. History 
+4. U.S. History 
 
-Fifth Period: AP Calculus 
+5. AP Calculus 
 
-Sixth Period: AP Spanish 
+6. AP Spanish 
 
-Seventh Period: AP Chemistry 
+7. AP Chemistry 
 
-Eighth Period: AP Chemistry Lab/Study Hall
+8. AP Chemistry Lab/Study Hall
